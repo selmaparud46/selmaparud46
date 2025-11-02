@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ola ,Eu sou Selma ! 👋
 
-<!--
-**selmaparud46/selmaparud46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###desenvolvedora [full stack ,front-end/back-end]
 
-Here are some ideas to get you started:
+##Sobre mim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Atualmente não estou trabalhando na area
+
+**Estou fazendo trascisão de carreira **.
+*Estou me aprofundando em na area da tecnologia* .
+*especificadamente em Analise e Desenvolvimento de Sistemas *.
+*relacionando react hooks e typeScript*.
+*Procuro colaborar em projetos de **codigo aberto/impacto social com foco em  UI/UX **..
