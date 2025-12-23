@@ -17,32 +17,9 @@ Estou em plena **transição de carreira da área da saúde para a tecnologia**,
 ---
 ### 📫 Como me encontrar
 - **LinkedIn:** [Seu Link do LinkedIn Aqui]
-- **Email:** [Seu Email Aqui]
+- **Email:** [selmatavares_rj@hotmail.com]
 ---
 ### ⚡ Curiosidade
 "Acredito que nunca é tarde para aprender. Aos 46 anos, estou provando que a curiosidade e a dedicação são os únicos requisitos para migrar para a área de tecnologia."
 
-# Hi there, I'm Selma Parud! 👋
-
-### 👩‍💻 About Me
-I am currently in a **career transition from Healthcare to Technology**, driven by a passion for solving problems and a desire for constant innovation. My current focus is on developing software solutions that improve people's lives through code.
-
-- 🎓 Undergraduate student in **Analysis and Systems Development** at UNINTER.
-- 🚀 Participant in the **Luizalabs Bootcamp (Back-end Python)**.
-- 💡 Aiming to apply my experience in resilience and attention to detail from the healthcare field to build efficient software.
----
-### 🛠️ Tech Stack & Tools
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+).
-- **Backend:** Starting my journey with Python (Luizalabs).
-- **Tools:** Git, GitHub, VS Code.
----
-### 📂 Featured Projects
-- **[Multivariate Currency Converter](https://selmaparud46.github.io/projeto-conversor-de-moedas/):** A practical real-time conversion project featuring DOM manipulation and dynamic interface updates.
----
-### 📫 Let's Connect
-- **LinkedIn:** [Insert your LinkedIn Link here]
-- **Email:** [Insert your Email here]
----
-### ⚡ Fun Fact
-"I believe it's never too late to learn. At 46, I am proving that curiosity and dedication are the only requirements to migrate into the technology field."
 
